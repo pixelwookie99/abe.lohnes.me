@@ -39,15 +39,8 @@ h2 {
   font-size: 1.35rem;
 }
 
-.list-social-icons a {
+.fb-icon a, .tw-icon a, .lnk-icon a, .gt-icon a {
   color: #495057;
-}
-
-.list-social-icons a:hover {
-  color: #3e74f0;
-}
-
-.list-social-icons a .fa-lg {
   font-size: 1.75rem;
 }
 
@@ -59,20 +52,20 @@ h2 {
   color: #3e74f0;
 }
 
-#fb-icon:hover {
-  background-color: #43609C;
+.fb-icon a:hover {
+  color: #43609C;
 }
 
-#tw-icon:hover {
-  background-color: #6CADDE;
+.tw-icon a:hover {
+  color: #6CADDE;
 }
 
-#lnk-icon:hover {
-  background-color: #0077B5;
+.lnk-icon a:hover {
+  color: #0077B5;
 }
 
-#gt-icon:hover {
-  background-color: #000;
+.gt-icon a:hover {
+  color: #000000;
 }
 
 #html-icon:hover {
